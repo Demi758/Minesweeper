@@ -1,0 +1,17 @@
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\bin\Debug\net8.0-windows\Minesweeper+1.exe
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\bin\Debug\net8.0-windows\Minesweeper+1.deps.json
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\bin\Debug\net8.0-windows\Minesweeper+1.runtimeconfig.json
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\bin\Debug\net8.0-windows\Minesweeper+1.dll
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\bin\Debug\net8.0-windows\Minesweeper+1.pdb
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\Minesweeper_1.Form1.resources
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\Minesweeper_1.Form2.resources
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\Minesweeper+1.csproj.GenerateResource.cache
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\Minesweeper+1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\Minesweeper+1.AssemblyInfoInputs.cache
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\Minesweeper+1.AssemblyInfo.cs
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\Minesweeper+1.csproj.CoreCompileInputs.cache
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\Minesweeper+1.dll
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\refint\Minesweeper+1.dll
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\Minesweeper+1.pdb
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\Minesweeper+1.genruntimeconfig.cache
+E:\ELEKTRONIKA\C#\Minesweeper+1\Minesweeper+1\obj\Debug\net8.0-windows\ref\Minesweeper+1.dll
